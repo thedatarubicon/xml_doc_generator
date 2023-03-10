@@ -1,6 +1,6 @@
 # XML File Generator
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://xml-doc-generator.streamlit.app/)
 
 ## Purpose
 This Streamlit app leverages Python and Faker to create two types of XML documents: single line and multi-line.
